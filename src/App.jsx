@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <NavBar/>
-      <ItemListProduct/>
+      <ItemListProduct mensajeBienvenida="Bienvenido a la pagina"/>
     </div>
   )
 }
